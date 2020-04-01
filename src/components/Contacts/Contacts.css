@@ -1,0 +1,12 @@
+.contacts {
+    background: palevioletred;
+    width: 75vw;
+    min-height: 40vh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.contacts-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}

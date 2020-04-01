@@ -1,0 +1,15 @@
+.contact-single {
+  border: 2px dotted red;
+  margin: 10px 0 10px 10px;
+  width: 450px;
+  list-style: none;
+  padding: 25px;
+}
+
+.anticon {
+  font-size: 2.5em;
+}
+
+.man-icon {
+  color: #eb09cd;
+}
